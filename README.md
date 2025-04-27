@@ -1,4 +1,3 @@
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&color=00C0FF&width=435&lines=Hi+I'm+Burak!;Frontend+Developer;React+and+Next.js+Enthusiast;Lifelong+Learner+🚀" alt="Typing SVG" />
 
 <h1 align="center">Hi 👋, I'm Burak</h1>
 <h3 align="center">Frontend Developer | Passionate about building modern web experiences</h3>
